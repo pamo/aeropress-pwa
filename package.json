@@ -1,7 +1,7 @@
 {
-  "name": "react-starter",
+  "name": "aeropress-time",
   "version": "0.0.1",
-  "description": "Simple Starter For React Js Project",
+  "description": "aeropress timer as a progressive webapp",
   "main": "./src/js/components/App.js",
   "scripts": {
     "dev": "webpack-dev-server --inline --hot",
@@ -9,20 +9,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BosNaufal/react-starter.git"
+    "url": "git+https://github.com/pamo/aeropress-pwa.git"
   },
   "keywords": [
     "react",
     "component",
     "react js",
-    "starter"
+    "pwa"
   ],
-  "author": "Naufal Rabbani <bosnaufalemail@gmail.com>",
+  "author": "Pamela Ocampo <pamela.ocampo@gmail.com>",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/BosNaufal/react-starter/issues"
-  },
-  "homepage": "https://github.com/BosNaufal/react-starter#readme",
+  "homepage": "https://likescoffee.com/",
   "devDependencies": {
     "autoprefixer-loader": "^3.2.0",
     "babel-loader": "^6.2.4",
